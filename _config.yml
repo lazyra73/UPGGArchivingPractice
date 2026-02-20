@@ -20,7 +20,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "UP Gaming Guild - the archives"
+title: UP Gaming Guild
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: for gamers, by gamers
 # description appears in meta tags and other locations
@@ -40,8 +40,8 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
- organization-name: "UP Gaming Guild"
- organization-link: https://www.facebook.com/UPGamingGuild
+# organization-name: "UP Gaming Guild"
+# organization-link: https://www.facebook.com/UPGamingGuild
 # organization-logo-banner: https://www.facebook.com/photo/?fbid=402127485369905&set=a.402127455369908
 # organization-logo-nav: https://www.facebook.com/photo/?fbid=402127485369905&set=a.402127455369908
 
